@@ -1,0 +1,3 @@
+[submodule "medfriend-api"]
+	path = medfriend-api
+	url = https://github.com/bill-jia/medfriend-api.git
