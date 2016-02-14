@@ -29,10 +29,10 @@ Throughout the project, three main sensor designs were experimented. The goal wa
 The sensor was connected to a Red Bear Labs BLE Nano (Nordic nRF51822 SoC) board.
 
 ##Software design
-The front-end was written in Angular 1.4 and the back-end was written in Rails 4.2 with a PostGRES database. The code for the microcontroller was written with C++ on the mbed and yotta platforms.
+The front-end was written in Angular 1.4 wrapped in Cordova and the back-end was written in Rails 4.2 with a PostGRES database. The code for the microcontroller was written with C++ on the mbed and yotta platforms.
 
 ## Contributors
-Luca Donini
-Edgar Gu
-Bill Jia
-Duncan McNicholl
++ Luca Donini
++ Edgar Gu
++ Bill Jia
++ Duncan McNicholl
